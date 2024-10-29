@@ -1,9 +1,8 @@
-
 from functools import lru_cache
 
 @lru_cache(maxsize=None)
 def knapsack_funkcyjna(pojemnosc, index, przedmioty):
-    # Jeśli nie ma więcej przedmiotów lub pojemność plecaka wynosi 0, zwróć 0
+
     if index == 0 or pojemnosc == 0:
         return 0, []
 
