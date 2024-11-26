@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="QuickSort.fs" />
+    <Compile Include="WieżaHanoi.fs" />
+    <Compile Include="PermutacjaListy.fs" />
+    <Compile Include="DrzewoBinarne.fs" />
+    <Compile Include="Fbonacci.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

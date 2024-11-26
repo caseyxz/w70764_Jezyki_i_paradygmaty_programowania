@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LlnyfT8PkUsk2euxPd9P1RRAReOdBDNwfDVUFtmXC9jX5oU/Ml4lbpR6fA7+5ez8JrfZzX6/E/Ly+I9pZPXbHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karol\\OneDrive\\Pulpit\\Języki i paradygmaty programowania\\Lab4\\notatki_lab4\\notatki_lab4.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karol\\.nuget\\packages\\fsharp.core\\8.0.101\\fsharp.core.8.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}

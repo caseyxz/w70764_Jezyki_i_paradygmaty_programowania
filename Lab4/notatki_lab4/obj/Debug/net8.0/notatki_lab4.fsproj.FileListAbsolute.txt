@@ -1,0 +1,5 @@
+C:\Users\karol\OneDrive\Pulpit\Języki i paradygmaty programowania\Lab4\notatki_lab4\obj\Debug\net8.0\notatki_lab4.fsproj.AssemblyReference.cache
+C:\Users\karol\OneDrive\Pulpit\Języki i paradygmaty programowania\Lab4\notatki_lab4\obj\Debug\net8.0\notatki_lab4.AssemblyInfoInputs.cache
+C:\Users\karol\OneDrive\Pulpit\Języki i paradygmaty programowania\Lab4\notatki_lab4\obj\Debug\net8.0\notatki_lab4.AssemblyInfo.fs
+C:\Users\karol\OneDrive\Pulpit\Języki i paradygmaty programowania\Lab4\notatki_lab4\obj\Debug\net8.0\notatki_lab4.fsproj.CoreCompileInputs.cache
+C:\Users\karol\OneDrive\Pulpit\Języki i paradygmaty programowania\Lab4\notatki_lab4\obj\Debug\net8.0\notatki_lab4.sourcelink.json

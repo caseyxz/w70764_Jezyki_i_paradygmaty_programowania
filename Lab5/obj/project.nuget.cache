@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVuj5Ccku9A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karol\\OneDrive\\Pulpit\\Języki i paradygmaty programowania\\Lab5\\Lab5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karol\\.nuget\\packages\\fsharp.core\\8.0.401\\fsharp.core.8.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
