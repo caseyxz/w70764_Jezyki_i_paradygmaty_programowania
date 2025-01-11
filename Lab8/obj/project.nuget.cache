@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ta+lv2OAc6M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\karol\\OneDrive\\Pulpit\\Języki i paradygmaty programowania\\Lab8\\Lab8.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karol\\.nuget\\packages\\fsharp.core\\8.0.401\\fsharp.core.8.0.401.nupkg.sha512"
+  ],
+  "logs": []
+}
