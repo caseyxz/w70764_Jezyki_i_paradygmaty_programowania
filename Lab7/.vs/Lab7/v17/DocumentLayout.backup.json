@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab7\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB9648C9-7121-490B-82A0-E69087962CF0}|Lab7.fsproj|c:\\users\\karol\\onedrive\\pulpit\\j\u0119zyki i paradygmaty programowania\\lab7\\systemzarz\u0105dzaniabibliotek\u0105.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{FB9648C9-7121-490B-82A0-E69087962CF0}|Lab7.fsproj|solutionrelative:systemzarz\u0105dzaniabibliotek\u0105.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB9648C9-7121-490B-82A0-E69087962CF0}|Lab7.fsproj|c:\\users\\karol\\onedrive\\pulpit\\j\u0119zyki i paradygmaty programowania\\lab7\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
       "RelativeMoniker": "D:0:0:{FB9648C9-7121-490B-82A0-E69087962CF0}|Lab7.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB9648C9-7121-490B-82A0-E69087962CF0}|Lab7.fsproj|c:\\users\\karol\\onedrive\\pulpit\\j\u0119zyki i paradygmaty programowania\\lab7\\systembank.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{FB9648C9-7121-490B-82A0-E69087962CF0}|Lab7.fsproj|solutionrelative:systembank.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,7 +30,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SystemBank.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab7\\SystemBank.fs",
+              "RelativeDocumentMoniker": "SystemBank.fs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab7\\SystemBank.fs",
+              "RelativeToolTip": "SystemBank.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-26T15:04:32.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SystemZarz\u0105dzaniaBibliotek\u0105.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab7\\SystemZarz\u0105dzaniaBibliotek\u0105.fs",
+              "RelativeDocumentMoniker": "SystemZarz\u0105dzaniaBibliotek\u0105.fs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab7\\SystemZarz\u0105dzaniaBibliotek\u0105.fs",
+              "RelativeToolTip": "SystemZarz\u0105dzaniaBibliotek\u0105.fs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-26T15:04:15.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.fs",
               "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab7\\Program.fs",
               "RelativeDocumentMoniker": "Program.fs",

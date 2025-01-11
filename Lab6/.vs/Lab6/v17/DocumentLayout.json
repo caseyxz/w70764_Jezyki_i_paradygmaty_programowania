@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karol\\source\\repos\\Lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|c:\\users\\karol\\source\\repos\\lab6\\wyszukiwanieizamiana.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|solutionrelative:wyszukiwanieizamiana.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|c:\\users\\karol\\source\\repos\\lab6\\znajdowanienajd\u0142u\u017Cszegos\u0142owa.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|solutionrelative:znajdowanienajd\u0142u\u017Cszegos\u0142owa.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|c:\\users\\karol\\source\\repos\\lab6\\zmianaformatutekstu.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|solutionrelative:zmianaformatutekstu.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|c:\\users\\karol\\source\\repos\\lab6\\liczbas\u0142\u00F3wiznak\u00F3w.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|solutionrelative:liczbas\u0142\u00F3wiznak\u00F3w.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|c:\\users\\karol\\source\\repos\\lab6\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|c:\\users\\karol\\source\\repos\\lab6\\programio.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|solutionrelative:programio.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|c:\\users\\karol\\source\\repos\\lab6\\programexample.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|solutionrelative:programexample.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|c:\\users\\karol\\source\\repos\\lab6\\palidromy.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|solutionrelative:palidromy.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|c:\\users\\karol\\source\\repos\\lab6\\usuwanieduplikat\u00F3w.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{15E669CB-259F-4871-9244-3DC83CE069D7}|Lab6.fsproj|solutionrelative:usuwanieduplikat\u00F3w.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WyszukiwanieIZamiana.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Lab6\\WyszukiwanieIZamiana.fs",
+              "RelativeDocumentMoniker": "WyszukiwanieIZamiana.fs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Lab6\\WyszukiwanieIZamiana.fs",
+              "RelativeToolTip": "WyszukiwanieIZamiana.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-19T15:30:23.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZnajdowanieNajd\u0142u\u017CszegoS\u0142owa.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Lab6\\ZnajdowanieNajd\u0142u\u017CszegoS\u0142owa.fs",
+              "RelativeDocumentMoniker": "ZnajdowanieNajd\u0142u\u017CszegoS\u0142owa.fs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Lab6\\ZnajdowanieNajd\u0142u\u017CszegoS\u0142owa.fs",
+              "RelativeToolTip": "ZnajdowanieNajd\u0142u\u017CszegoS\u0142owa.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-19T15:29:28.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZmianaFormatuTekstu.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Lab6\\ZmianaFormatuTekstu.fs",
+              "RelativeDocumentMoniker": "ZmianaFormatuTekstu.fs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Lab6\\ZmianaFormatuTekstu.fs",
+              "RelativeToolTip": "ZmianaFormatuTekstu.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-19T15:17:52.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Usuwanieduplikat\u00F3w.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Lab6\\Usuwanieduplikat\u00F3w.fs",
+              "RelativeDocumentMoniker": "Usuwanieduplikat\u00F3w.fs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Lab6\\Usuwanieduplikat\u00F3w.fs",
+              "RelativeToolTip": "Usuwanieduplikat\u00F3w.fs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-19T15:10:58.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Palidromy.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Lab6\\Palidromy.fs",
+              "RelativeDocumentMoniker": "Palidromy.fs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Lab6\\Palidromy.fs",
+              "RelativeToolTip": "Palidromy.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-19T15:09:53.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProgramExample.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Lab6\\ProgramExample.fs",
+              "RelativeDocumentMoniker": "ProgramExample.fs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Lab6\\ProgramExample.fs",
+              "RelativeToolTip": "ProgramExample.fs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-19T14:43:44.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LiczbaS\u0142\u00F3wiZnak\u00F3w.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Lab6\\LiczbaS\u0142\u00F3wiZnak\u00F3w.fs",
+              "RelativeDocumentMoniker": "LiczbaS\u0142\u00F3wiZnak\u00F3w.fs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Lab6\\LiczbaS\u0142\u00F3wiZnak\u00F3w.fs",
+              "RelativeToolTip": "LiczbaS\u0142\u00F3wiZnak\u00F3w.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-19T15:02:29.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProgramIO.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Lab6\\ProgramIO.fs",
+              "RelativeDocumentMoniker": "ProgramIO.fs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Lab6\\ProgramIO.fs",
+              "RelativeToolTip": "ProgramIO.fs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-19T14:43:23.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\source\\repos\\Lab6\\Program.fs",
+              "RelativeDocumentMoniker": "Program.fs",
+              "ToolTip": "C:\\Users\\karol\\source\\repos\\Lab6\\Program.fs",
+              "RelativeToolTip": "Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-19T14:34:15.91Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

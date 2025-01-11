@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|c:\\users\\karol\\onedrive\\pulpit\\j\u0119zyki i paradygmaty programowania\\lab5\\wie\u017Cahanoi.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|solutionrelative:wie\u017Cahanoi.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|c:\\users\\karol\\onedrive\\pulpit\\j\u0119zyki i paradygmaty programowania\\lab5\\quicksort.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|solutionrelative:quicksort.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|c:\\users\\karol\\onedrive\\pulpit\\j\u0119zyki i paradygmaty programowania\\lab5\\fbonacci.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|solutionrelative:fbonacci.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|c:\\users\\karol\\onedrive\\pulpit\\j\u0119zyki i paradygmaty programowania\\lab5\\drzewobinarne.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|solutionrelative:drzewobinarne.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|c:\\users\\karol\\onedrive\\pulpit\\j\u0119zyki i paradygmaty programowania\\lab5\\permutacjalisty.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|solutionrelative:permutacjalisty.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|c:\\users\\karol\\onedrive\\pulpit\\j\u0119zyki i paradygmaty programowania\\lab5\\program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
       "RelativeMoniker": "D:0:0:{F5CCC072-0006-4F67-B78F-3E45F28B2DBA}|Lab5.fsproj|solutionrelative:program.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     }
@@ -14,24 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.fs",
-              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\Program.fs",
-              "RelativeDocumentMoniker": "Program.fs",
-              "ToolTip": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\Program.fs*",
-              "RelativeToolTip": "Program.fs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-12T14:40:52.346Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuickSort.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\QuickSort.fs",
+              "RelativeDocumentMoniker": "QuickSort.fs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\QuickSort.fs",
+              "RelativeToolTip": "QuickSort.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T15:41:34.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wie\u017CaHanoi.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\Wie\u017CaHanoi.fs",
+              "RelativeDocumentMoniker": "Wie\u017CaHanoi.fs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\Wie\u017CaHanoi.fs",
+              "RelativeToolTip": "Wie\u017CaHanoi.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T15:06:45.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermutacjaListy.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\PermutacjaListy.fs",
+              "RelativeDocumentMoniker": "PermutacjaListy.fs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\PermutacjaListy.fs",
+              "RelativeToolTip": "PermutacjaListy.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T15:06:21.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DrzewoBinarne.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\DrzewoBinarne.fs",
+              "RelativeDocumentMoniker": "DrzewoBinarne.fs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\DrzewoBinarne.fs",
+              "RelativeToolTip": "DrzewoBinarne.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T15:05:48.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fbonacci.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\Fbonacci.fs",
+              "RelativeDocumentMoniker": "Fbonacci.fs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\Fbonacci.fs",
+              "RelativeToolTip": "Fbonacci.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T15:04:32.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.fs",
+              "DocumentMoniker": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\Program.fs",
+              "RelativeDocumentMoniker": "Program.fs",
+              "ToolTip": "C:\\Users\\karol\\OneDrive\\Pulpit\\J\u0119zyki i paradygmaty programowania\\Lab5\\Program.fs",
+              "RelativeToolTip": "Program.fs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-12T14:40:52.346Z",
+              "EditorCaption": ""
             }
           ]
         }
